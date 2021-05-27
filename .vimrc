@@ -9,6 +9,8 @@ Plug 'vim-airline/vim-airline'
 Plug 'morhetz/gruvbox'
 Plug 'jiangmiao/auto-pairs'
 Plug 'wolf-dog/nighted.vim'
+Plug 'yggdroot/indentline'
+Plug 'fcpg/vim-orbital'
 
 call plug#end()
 
